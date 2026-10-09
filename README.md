@@ -7,6 +7,23 @@ menús a mano, zoom propio, tema claro u oscuro.
 > **App no oficial.** Hecha por un manager para los managers. No tiene
 > relación con los responsables de PcLiga.
 
+## Capturas
+
+<table>
+  <tr>
+    <td align="center"><img width="180" height="400" alt="Portada" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe"><br><sub>Portada, antes de iniciar sesión</sub></td>
+    <td align="center"><img width="180" height="400" alt="Alineación" src="https://github.com/user-attachments/assets/9ad9f893-bb7c-4982-8afe-c6305a8ecf79"><br><sub>Alineación, con el resumen de un jugador</sub></td>
+    <td align="center"><img width="180" height="400" alt="Ficha del jugador" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3"><br><sub>Ficha del jugador, con las stats en gráfico</sub></td>
+    <td align="center"><img width="180" height="400" alt="Ficha del jugador en tema oscuro" src="https://github.com/user-attachments/assets/e3c17474-c87f-4e67-af0d-dfb12dbf5644"><br><sub>La misma ficha, en tema oscuro y con menús azules</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img width="180" height="400" alt="Tácticas" src="https://github.com/user-attachments/assets/cb35b6cc-96c5-44d0-aa8d-a3b0280aedec"><br><sub>Tácticas</sub></td>
+    <td align="center"><img width="180" height="400" alt="Visor de partidos" src="https://github.com/user-attachments/assets/8329e21a-6929-4156-b3da-1ef50f980c71"><br><sub>Visor de partidos</sub></td>
+    <td align="center"><img width="180" height="400" alt="Clasificación" src="https://github.com/user-attachments/assets/f840b1ed-bcc6-4d02-b7c4-e6616ce64def"><br><sub>Clasificación de la liga</sub></td>
+    <td align="center"><img width="180" height="400" alt="Subastas" src="https://github.com/user-attachments/assets/708e4d04-d848-49fb-aacc-744b90a2bee5"><br><sub>Subastas, con el botón de pujar a la vista</sub></td>
+  </tr>
+</table>
+
 ## Descargar
 
 En **[Releases](../../releases/latest)** está siempre la última versión.
