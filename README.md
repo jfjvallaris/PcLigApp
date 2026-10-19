@@ -55,9 +55,10 @@ en vez de hacerte esperar.
 
 ### Ficha del jugador
 
-Las stats en barras, con los colores de PcLiga, o en un gráfico de diez
-porciones; y el histórico de cada temporada, en un gráfico que se ve entero
-en el móvil.
+Cuando no hay espacio para verla entera, la ficha se vuelve deslizable: los
+datos y las stats quedan uno al lado del otro y se pasa de uno a otro con
+el dedo. Y a la vista clásica de las stats en barras se suma un gráfico de
+diez porciones, para ver de un vistazo cómo es el jugador.
 
 <p align="center">
   <img width="180" height="390" alt="Ficha del jugador" title="Ficha del jugador, con las stats en gráfico" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3">
@@ -66,9 +67,7 @@ en el móvil.
 
 ### Partidos
 
-En el calendario y los resultados, los goles van separados de los equipos,
-con el acceso al visor, a la simulación al minuto y al carrusel de cada
-partido.
+El visor de partidos se ve igual que en la web: la app no lo altera.
 
 <p align="center">
   <img width="180" height="390" alt="Visor de partidos" title="Visor de partidos" src="https://github.com/user-attachments/assets/8329e21a-6929-4156-b3da-1ef50f980c71">
