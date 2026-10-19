@@ -1,27 +1,94 @@
-# App no oficial para PcLiga (Android)
+# PcLigApp: PcLiga en el móvil (Android, no oficial)
 
-PcLiga, el manager de fútbol online, adaptado al móvil. La app muestra la
-web del juego acomodada a la pantalla del teléfono: tablas que entran,
-menús a mano, zoom propio, tema claro u oscuro.
+PcLiga, el manager de fútbol online, adaptado al teléfono. Es la misma
+PcLiga de siempre, con tu cuenta y tus datos, pero cada pantalla se acomoda
+al móvil: sin pellizcar, ampliar y deslizar para encontrar un dato.
 
 > **App no oficial.** Hecha por un manager para los managers. No tiene
 > relación con los responsables de PcLiga.
 
-## Capturas
+## Qué cambia respecto de la web
 
-Portada, alineación, ficha del jugador (en claro y en oscuro), tácticas,
-visor de partidos, clasificación y subastas.
+### Menús
+
+La barra de accesos de PcLiga (alineación, plantilla, tácticas,
+calendario…) queda fija arriba y se desliza de costado. El menú izquierdo
+de la web pasa al botón ☰, con todas las secciones del juego; la columna
+derecha, al botón ⋮, con lo que se puede hacer en la página que estás
+viendo: en la ficha de otro equipo, por ejemplo, mandarle un comunicado,
+ofrecerle un contrato o una transferencia, añadirlo a tu cartera o ver su
+táctica.
 
 <p align="center">
-  <img width="180" height="400" alt="Portada" title="Portada, antes de iniciar sesión" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe">
-  <img width="180" height="400" alt="Alineación" title="Alineación, con el resumen de un jugador" src="https://github.com/user-attachments/assets/9ad9f893-bb7c-4982-8afe-c6305a8ecf79">
-  <img width="180" height="400" alt="Ficha del jugador" title="Ficha del jugador, con las stats en gráfico" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3">
-  <img width="180" height="400" alt="Ficha del jugador en tema oscuro" title="La misma ficha, en tema oscuro y con menús azules" src="https://github.com/user-attachments/assets/e3c17474-c87f-4e67-af0d-dfb12dbf5644">
-  <img width="180" height="400" alt="Tácticas" title="Tácticas" src="https://github.com/user-attachments/assets/cb35b6cc-96c5-44d0-aa8d-a3b0280aedec">
-  <img width="180" height="400" alt="Visor de partidos" title="Visor de partidos" src="https://github.com/user-attachments/assets/8329e21a-6929-4156-b3da-1ef50f980c71">
-  <img width="180" height="400" alt="Clasificación" title="Clasificación de la liga" src="https://github.com/user-attachments/assets/f840b1ed-bcc6-4d02-b7c4-e6616ce64def">
-  <img width="180" height="400" alt="Subastas" title="Subastas, con el botón de pujar a la vista" src="https://github.com/user-attachments/assets/708e4d04-d848-49fb-aacc-744b90a2bee5">
+  <img width="180" height="390" alt="Menú principal" title="Menú ☰: todas las secciones del juego" src="capturas/menu_izquierdo.jpeg">
+  <img width="180" height="390" alt="Menú de la página" title="Menú ⋮ en la ficha de otro equipo: sus datos y las acciones sobre él" src="capturas/menu_derecho.jpeg">
+  <img width="180" height="390" alt="Portada" title="Portada, antes de iniciar sesión" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe">
 </p>
+
+### Alineación, tácticas y clasificación
+
+Las tablas se acomodan al ancho de la pantalla: si no entran, bajan la
+letra, acortan los nombres o esconden columnas, lo justo. El ojo de cada
+jugador abre su resumen, con las stats con decimales, las medias y, en la
+alineación, la EF. La clasificación, cuando no entra, se queda con los
+puntos y los criterios de desempate. Y en tácticas, el campo entra entero
+en la pantalla. Muchas tablas recuperan la vista completa con solo girar
+el teléfono.
+
+<p align="center">
+  <img width="180" height="390" alt="Alineación" title="Alineación, con el resumen de un jugador" src="https://github.com/user-attachments/assets/9ad9f893-bb7c-4982-8afe-c6305a8ecf79">
+  <img width="180" height="390" alt="Tácticas" title="Tácticas" src="https://github.com/user-attachments/assets/cb35b6cc-96c5-44d0-aa8d-a3b0280aedec">
+  <img width="180" height="390" alt="Clasificación" title="Clasificación de la liga" src="https://github.com/user-attachments/assets/f840b1ed-bcc6-4d02-b7c4-e6616ce64def">
+</p>
+
+### Mercado
+
+En el buscador, las demarcaciones son botones grandes y los filtros van en
+secciones que se despliegan. En las subastas, el botón de pujar siempre
+entra en la pantalla, y en un teléfono lento la lista aparece por tandas
+en vez de hacerte esperar.
+
+<p align="center">
+  <img width="180" height="390" alt="Buscador de jugadores" title="Buscador de jugadores: demarcaciones en botones y filtros en secciones" src="capturas/buscar_jugadores.jpeg">
+  <img width="180" height="390" alt="Subastas" title="Subastas, con el botón de pujar a la vista" src="https://github.com/user-attachments/assets/708e4d04-d848-49fb-aacc-744b90a2bee5">
+</p>
+
+### Ficha del jugador
+
+Las stats en barras, con los colores de PcLiga, o en un gráfico de diez
+porciones; y el histórico de cada temporada, en un gráfico que se ve entero
+en el móvil.
+
+<p align="center">
+  <img width="180" height="390" alt="Ficha del jugador" title="Ficha del jugador, con las stats en gráfico" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3">
+  <img width="180" height="390" alt="Ficha del jugador en tema oscuro" title="La misma ficha, en tema oscuro y con menús azules" src="https://github.com/user-attachments/assets/e3c17474-c87f-4e67-af0d-dfb12dbf5644">
+</p>
+
+### Partidos
+
+En el calendario y los resultados, los goles van separados de los equipos,
+con el acceso al visor, a la simulación al minuto y al carrusel de cada
+partido.
+
+<p align="center">
+  <img width="180" height="390" alt="Visor de partidos" title="Visor de partidos" src="https://github.com/user-attachments/assets/8329e21a-6929-4156-b3da-1ef50f980c71">
+</p>
+
+### Tema, colores y zoom
+
+Tema claro, oscuro o el del teléfono; cinco colores para los menús; y zoom
+propio, del 80 % al 130 %, que se recuerda.
+
+### Cargas y errores
+
+Mientras carga una página nueva, queda la anterior con un indicador. Si se
+corta internet, aparece un aviso con "Reintentar"; si PcLiga rechaza algo
+sin decir por qué, vuelves a la portada con un aviso.
+
+### Para empezar
+
+Un tutorial recorre el juego la primera vez, y la cuenta nueva se puede
+crear desde la app.
 
 ## Descargar
 
