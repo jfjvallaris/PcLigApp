@@ -20,9 +20,9 @@ ofrecerle un contrato o una transferencia, añadirlo a tu cartera o ver su
 táctica.
 
 <p align="center">
+  <img width="180" height="390" alt="Portada" title="Portada, antes de iniciar sesión" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe">
   <img width="180" height="390" alt="Menú principal" title="Menú ☰: todas las secciones del juego" src="capturas/menu_izquierdo.jpeg">
   <img width="180" height="390" alt="Menú de la página" title="Menú ⋮ en la ficha de otro equipo: sus datos y las acciones sobre él" src="capturas/menu_derecho.jpeg">
-  <img width="180" height="390" alt="Portada" title="Portada, antes de iniciar sesión" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe">
 </p>
 
 ### Alineación, tácticas y clasificación
