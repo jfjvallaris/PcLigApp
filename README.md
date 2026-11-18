@@ -17,12 +17,14 @@ de la web pasa al botón ☰, con todas las secciones del juego; la columna
 derecha, al botón ⋮, con lo que se puede hacer en la página que estás
 viendo: en la ficha de otro equipo, por ejemplo, mandarle un comunicado,
 ofrecerle un contrato o una transferencia, añadirlo a tu cartera o ver su
-táctica.
+táctica. Arriba de todo, en cualquier página, **Copiar enlace de esta
+página** copia su dirección en pcliga.com para pasársela a otro manager.
 
 <p align="center">
   <img width="180" height="390" alt="Portada" title="Portada, antes de iniciar sesión" src="https://github.com/user-attachments/assets/a7f4094a-cb97-48a1-a6f8-00f93917bafe">
   <img width="180" height="390" alt="Menú principal" title="Menú ☰: todas las secciones del juego" src="capturas/menu_izquierdo.jpeg">
   <img width="180" height="390" alt="Menú de la página" title="Menú ⋮ en la ficha de otro equipo: sus datos y las acciones sobre él" src="capturas/menu_derecho.jpeg">
+  <img width="180" height="390" alt="Copiar enlace" title="Menú ⋮: copiar el enlace de la página, arriba de todo" src="capturas/copiar_enlace.jpeg">
 </p>
 
 ### Alineación, tácticas y clasificación
@@ -30,15 +32,16 @@ táctica.
 Las tablas se acomodan al ancho de la pantalla: si no entran, bajan la
 letra, acortan los nombres o esconden columnas, lo justo. El ojo de cada
 jugador abre su resumen, con las stats con decimales, las medias y, en la
-alineación, la EF. La clasificación, cuando no entra, se queda con los
-puntos y los criterios de desempate. Y en tácticas, el campo entra entero
-en la pantalla. Muchas tablas recuperan la vista completa con solo girar
-el teléfono.
+alineación, la EF. La clasificación se ve completa y, si no entra, se
+desliza de costado; debajo se puede pasar a la resumida, con los puntos y
+los criterios de desempate. Y en tácticas, el campo entra entero en la
+pantalla. Muchas tablas recuperan la vista completa con solo girar el
+teléfono.
 
 <p align="center">
   <img width="180" height="390" alt="Alineación" title="Alineación, con el resumen de un jugador" src="https://github.com/user-attachments/assets/9ad9f893-bb7c-4982-8afe-c6305a8ecf79">
   <img width="180" height="390" alt="Tácticas" title="Tácticas" src="https://github.com/user-attachments/assets/cb35b6cc-96c5-44d0-aa8d-a3b0280aedec">
-  <img width="180" height="390" alt="Clasificación" title="Clasificación de la liga" src="https://github.com/user-attachments/assets/f840b1ed-bcc6-4d02-b7c4-e6616ce64def">
+  <img width="180" height="390" alt="Clasificación" title="Clasificación completa, con la vista de tabla debajo" src="capturas/clasificacion.jpeg">
 </p>
 
 ### Mercado
@@ -55,14 +58,18 @@ en vez de hacerte esperar.
 
 ### Ficha del jugador
 
-Cuando no hay espacio para verla entera, la ficha se vuelve deslizable: los
-datos y las stats quedan uno al lado del otro y se pasa de uno a otro con
-el dedo. Y a la vista clásica de las stats en barras se suma un gráfico de
-diez porciones, para ver de un vistazo cómo es el jugador.
+Dos vistas, a elección, y la app recuerda la tuya. La **deslizable**: los
+datos y el contrato en una parte, las stats con la media en otra, y se pasa
+de una a otra con el dedo. La **completa**: la ficha del juego entera,
+achicada para que entre en la pantalla. A la vista clásica de las stats en
+barras se suma el **radar**, un gráfico de diez porciones para ver de un
+vistazo cómo es el jugador. Y con **Compartir ficha** la mandas como
+imagen por WhatsApp o por donde quieras.
 
 <p align="center">
-  <img width="180" height="390" alt="Ficha del jugador" title="Ficha del jugador, con las stats en gráfico" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3">
+  <img width="180" height="390" alt="Ficha del jugador" title="Ficha deslizable, con las stats en radar" src="https://github.com/user-attachments/assets/f0ea39bb-a1f0-4ad6-adaa-f89438e3c0d3">
   <img width="180" height="390" alt="Ficha del jugador en tema oscuro" title="La misma ficha, en tema oscuro y con menús azules" src="https://github.com/user-attachments/assets/e3c17474-c87f-4e67-af0d-dfb12dbf5644">
+  <img width="180" height="390" alt="Ficha completa" title="Ficha completa, con las vistas y Compartir ficha al pie" src="capturas/ficha.jpeg">
 </p>
 
 ### Partidos
