@@ -21,14 +21,12 @@ ofrecerle un contrato o una transferencia, añadirlo a tu cartera o ver su
 táctica. Arriba de todo, en cualquier página, **Copiar enlace de esta
 página** copia su dirección en pcliga.com para pasársela a otro manager.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Portada, antes de iniciar sesión" src="capturas/home_sin_login.jpeg"><br><sub>Portada, antes de iniciar sesión</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Menú ☰: todas las secciones del juego" src="capturas/menu_izquierdo.jpeg"><br><sub>Menú ☰: todas las secciones del juego</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Menú ⋮: copiar el enlace, arriba de todo" src="capturas/menu_derecho.jpeg"><br><sub>Menú ⋮: copiar el enlace, arriba de todo</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Menú ⋮ en otro equipo: sus datos y acciones" src="capturas/menu_derecho_otroequipo.jpeg"><br><sub>Menú ⋮ en otro equipo: sus datos y acciones</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Portada, antes de iniciar sesión" src="capturas/home_sin_login.jpeg">
+  <img width="155" hspace="2" alt="Menú ☰: todas las secciones del juego" src="capturas/menu_izquierdo.jpeg">
+  <img width="155" hspace="2" alt="Menú ⋮: copiar el enlace, arriba de todo" src="capturas/menu_derecho.jpeg">
+  <img width="155" hspace="2" alt="Menú ⋮ en otro equipo: sus datos y acciones" src="capturas/menu_derecho_otroequipo.jpeg">
+</p>
 
 ### Alineación, tácticas y clasificación
 
@@ -45,17 +43,13 @@ también se ve completa y, debajo, se puede pasar a la resumida, con los
 puntos y los criterios de desempate. En tácticas, el campo entra entero en
 la pantalla. Y con el teléfono girado, muchas tablas se ven enteras.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Alineación completa: todas las stats" src="capturas/alineacion_completa.jpeg"><br><sub>Alineación completa: todas las stats</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Alineación resumida: las stats, en el ojo" src="capturas/alineacion_resumida.jpeg"><br><sub>Alineación resumida: las stats, en el ojo</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Tácticas: el campo entra entero" src="capturas/tacticas.jpeg"><br><sub>Tácticas: el campo entra entero</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Clasificación completa: todas las columnas" src="capturas/clasificacion_completa.jpeg"><br><sub>Clasificación completa: todas las columnas</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Clasificación resumida: puntos y desempates" src="capturas/clasificacion_resumida.jpeg"><br><sub>Clasificación resumida: puntos y desempates</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Alineación completa: todas las stats" src="capturas/alineacion_completa.jpeg">
+  <img width="155" hspace="2" alt="Alineación resumida: las stats, en el ojo" src="capturas/alineacion_resumida.jpeg">
+  <img width="155" hspace="2" alt="Tácticas: el campo entra entero" src="capturas/tacticas.jpeg">
+  <img width="155" hspace="2" alt="Clasificación completa: todas las columnas" src="capturas/clasificacion_completa.jpeg">
+  <img width="155" hspace="2" alt="Clasificación resumida: puntos y desempates" src="capturas/clasificacion_resumida.jpeg">
+</p>
 
 ### Mercado
 
@@ -67,18 +61,17 @@ filtros se pliegan y se eligen con botones, y en un teléfono lento la lista
 aparece por tandas en vez de hacerte esperar. En las estadísticas de
 traspasos, la edad se elige en un desplegable, sin abrir el menú ⋮.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Buscador: demarcaciones en botones" src="capturas/buscar_jugadores.jpeg"><br><sub>Buscador: demarcaciones en botones</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Resultados: demarcación y nombre fijos" src="capturas/buscar_jugadores_resultados.jpeg"><br><sub>Resultados: demarcación y nombre fijos</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Subastas: nombre y demarcación fijos" src="capturas/subastas.jpeg"><br><sub>Subastas: nombre y demarcación fijos</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Subastas: edad, MR y ficha, con pujar a la vista" src="capturas/subastas_info_extra.jpeg"><br><sub>Subastas: edad, MR y ficha, con pujar a la vista</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Subastas: los filtros, en botones" src="capturas/subastas_filtros.jpeg"><br><sub>Subastas: los filtros, en botones</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Traspasos: la edad, en un desplegable" src="capturas/baremador_desplegable.jpeg"><br><sub>Traspasos: la edad, en un desplegable</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Buscador: demarcaciones en botones" src="capturas/buscar_jugadores.jpeg">
+  <img width="155" hspace="2" alt="Resultados: demarcación y nombre fijos" src="capturas/buscar_jugadores_resultados.jpeg">
+</p>
+
+<p align="center">
+  <img width="155" hspace="2" alt="Subastas: nombre y demarcación fijos" src="capturas/subastas.jpeg">
+  <img width="155" hspace="2" alt="Subastas: edad, MR y ficha, con pujar a la vista" src="capturas/subastas_info_extra.jpeg">
+  <img width="155" hspace="2" alt="Subastas: los filtros, en botones" src="capturas/subastas_filtros.jpeg">
+  <img width="155" hspace="2" alt="Traspasos: la edad, en un desplegable" src="capturas/baremador_desplegable.jpeg">
+</p>
 
 ### Ficha del jugador
 
@@ -90,23 +83,21 @@ barras se suma el **radar**, un gráfico de diez porciones para ver de un
 vistazo cómo es el jugador. Y con **Compartir ficha** la mandas como
 imagen por WhatsApp o por donde quieras.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Ficha completa: stats en barras" src="capturas/ficha_completa_barras.jpeg"><br><sub>Ficha completa: stats en barras</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Ficha completa: stats en radar" src="capturas/ficha_completa_radar.jpeg"><br><sub>Ficha completa: stats en radar</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Ficha deslizable: datos y contrato" src="capturas/ficha_deslizable.jpeg"><br><sub>Ficha deslizable: datos y contrato</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Ficha completa: stats en barras" src="capturas/ficha_completa_barras.jpeg">
+  <img width="155" hspace="2" alt="Ficha completa: stats en radar" src="capturas/ficha_completa_radar.jpeg">
+  <img width="155" hspace="2" alt="Ficha deslizable: datos y contrato" src="capturas/ficha_deslizable.jpeg">
+</p>
 
 ### Partidos
 
 El visor de partidos se ve igual que en la web, con sus pestañas de
 eventos, onces y stats: la app no lo altera.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Visor de partidos: igual que en la web" src="capturas/partido.jpeg"><br><sub>Visor de partidos: igual que en la web</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Visor de partidos: las stats de cada jugador" src="capturas/partido_stats.jpeg"><br><sub>Visor de partidos: las stats de cada jugador</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Visor de partidos: igual que en la web" src="capturas/partido.jpeg">
+  <img width="155" hspace="2" alt="Visor de partidos: las stats de cada jugador" src="capturas/partido_stats.jpeg">
+</p>
 
 ### Tema, colores y zoom
 
@@ -115,26 +106,18 @@ Tema claro, oscuro o el del teléfono; cinco colores para los menús
 del 80 % al 130 %, que se recuerda. Todo está en **Configuración (APP)**,
 al final del menú ☰, y debajo figura la versión de la app.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Claro, verde" src="capturas/modo_claro_verde.jpeg"><br><sub>Claro, verde</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Oscuro, verde" src="capturas/modo_oscuro_verde.jpeg"><br><sub>Oscuro, verde</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Claro, azul" src="capturas/modo_claro_azul.jpeg"><br><sub>Claro, azul</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Oscuro, azul" src="capturas/modo_oscuro_azul.jpeg"><br><sub>Oscuro, azul</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Claro, granate" src="capturas/modo_claro_rojo.jpeg"><br><sub>Claro, granate</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Oscuro, granate" src="capturas/modo_oscuro_rojo.jpeg"><br><sub>Oscuro, granate</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Claro, petróleo" src="capturas/modo_claro_seagreen.jpeg"><br><sub>Claro, petróleo</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Oscuro, petróleo" src="capturas/modo_oscuro_seagreen.jpeg"><br><sub>Oscuro, petróleo</sub></td>
-</tr></table>
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Claro, grafito" src="capturas/modo_claro_gris.jpeg"><br><sub>Claro, grafito</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Oscuro, grafito" src="capturas/modo_oscuro_gris.jpeg"><br><sub>Oscuro, grafito</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Claro, verde" src="capturas/modo_claro_verde.jpeg">
+  <img width="155" hspace="2" alt="Claro, azul" src="capturas/modo_claro_azul.jpeg">
+  <img width="155" hspace="2" alt="Claro, granate" src="capturas/modo_claro_rojo.jpeg">
+  <img width="155" hspace="2" alt="Claro, petróleo" src="capturas/modo_claro_seagreen.jpeg">
+  <img width="155" hspace="2" alt="Claro, grafito" src="capturas/modo_claro_gris.jpeg">
+  <img width="155" hspace="2" alt="Oscuro, verde" src="capturas/modo_oscuro_verde.jpeg">
+  <img width="155" hspace="2" alt="Oscuro, azul" src="capturas/modo_oscuro_azul.jpeg">
+  <img width="155" hspace="2" alt="Oscuro, granate" src="capturas/modo_oscuro_rojo.jpeg">
+  <img width="155" hspace="2" alt="Oscuro, petróleo" src="capturas/modo_oscuro_seagreen.jpeg">
+  <img width="155" hspace="2" alt="Oscuro, grafito" src="capturas/modo_oscuro_gris.jpeg">
+</p>
 
 ### Cargas, errores y un tutorial para empezar
 
@@ -144,10 +127,10 @@ sin decir por qué, vuelves a la portada con un aviso. La primera vez, un
 tutorial recorre el juego (se vuelve a ver desde **Tutorial**, en el menú
 ☰), y la cuenta nueva se puede crear desde la app.
 
-<table align="center"><tr>
-<td align="center" valign="top" width="140"><img width="140" alt="Sin conexión: aviso con Reintentar" src="capturas/sin_conexion.jpeg"><br><sub>Sin conexión: aviso con Reintentar</sub></td>
-<td align="center" valign="top" width="140"><img width="140" alt="Tutorial: la bienvenida, la primera vez" src="capturas/tutorial.jpeg"><br><sub>Tutorial: la bienvenida, la primera vez</sub></td>
-</tr></table>
+<p align="center">
+  <img width="155" hspace="2" alt="Sin conexión: aviso con Reintentar" src="capturas/sin_conexion.jpeg">
+  <img width="155" hspace="2" alt="Tutorial: la bienvenida, la primera vez" src="capturas/tutorial.jpeg">
+</p>
 
 ## Descargar
 
