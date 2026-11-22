@@ -182,6 +182,8 @@ Si un APK no coincide, no lo instales.
   "No soy un robot". Cualquier otro enlace (foro, wiki, redes) se abre en
   tu navegador.
 
+La política completa está en [PRIVACIDAD.md](PRIVACIDAD.md).
+
 ## Lo que no está en la app
 
 La compra de créditos, los ingresos extra, la cuenta premium con tarjeta o
