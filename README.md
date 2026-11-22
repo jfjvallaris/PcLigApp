@@ -103,7 +103,7 @@ eventos, onces y stats: la app no lo altera.
 
 Tema claro, oscuro o el del teléfono; cinco colores para los menús
 (verde, el de siempre, azul, granate, petróleo y grafito); y zoom propio,
-del 80 % al 130 %, que se recuerda. Todo está en **Configuración (APP)**,
+del 65 % al 130 %, que se recuerda. Todo está en **Configuración (APP)**,
 al final del menú ☰, y debajo figura la versión de la app.
 
 <p align="center">
