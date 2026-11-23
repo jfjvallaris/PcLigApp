@@ -148,8 +148,10 @@ Descarga el archivo `.apk` de la sección *Assets*.
 Las versiones nuevas se instalan **encima** de la anterior, sin
 desinstalar y sin perder nada.
 
-> Si tienes una beta anterior a la 1.0 (0.5 o anterior), desinstálala
-> primero: estaba firmada con otra clave y Android no deja instalar encima.
+> Si tienes la 1.4.4 o una anterior, desinstálala primero: desde la 1.4.5
+> la app tiene otro identificador interno y Android la trata como otra app.
+> Al instalarla vuelves a iniciar sesión y a elegir tus preferencias. Si
+> usas Obtainium, quita la app y vuelve a agregarla.
 
 ## Actualizar sola, con Obtainium
 
